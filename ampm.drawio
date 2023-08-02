@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-02T09:34:48.419Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="zzdYE5gKcHeicxiXh5M4" version="21.6.6" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-08-02T12:46:08.060Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="chpJZqnMirS1ezn4MBju" version="21.6.6" type="github" pages="5">
   <diagram name="ampm" id="qrJaefqJqWcOck06pkET">
-    <mxGraphModel dx="3902" dy="1954" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4649" dy="2261" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -597,7 +597,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of ampm" id="DTVxJel2SdgSm6XPCLmU">
-    <mxGraphModel dx="4050" dy="1913" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="6747" dy="3423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="SvdGNaRzzcbbfpk_oL0Q-0" />
         <mxCell id="SvdGNaRzzcbbfpk_oL0Q-1" parent="SvdGNaRzzcbbfpk_oL0Q-0" />
@@ -1263,7 +1263,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="P5aGRRgCnv_25rwM8_-K" name="gem5_prefetcher">
-    <mxGraphModel dx="6127" dy="1478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="6071" dy="1478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1602,8 +1602,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="K8-tir46aVDh2SZE-opX" name="Page-4">
-    <mxGraphModel dx="3350" dy="1355" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+  <diagram id="K8-tir46aVDh2SZE-opX" name="RTL prefetcher">
+    <mxGraphModel dx="3298" dy="1355" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1612,8 +1612,8 @@
             <mxPoint x="1020" y="380" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zsFWhoQD3R6V-VT8tKo_-1" value="PrefetchQueue" style="whiteSpace=wrap;html=1;fontSize=20;fontFamily=Comic Sans MS;fillColor=#81b29a;strokeColor=none;fontColor=#FFFFFF;rounded=1;strokeWidth=2;shadow=1;glass=0;comic=0;gradientColor=none;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="589.75" y="650" width="180" height="220" as="geometry" />
+        <mxCell id="zsFWhoQD3R6V-VT8tKo_-1" value="" style="whiteSpace=wrap;html=1;fontSize=20;fontFamily=Comic Sans MS;fillColor=#81b29a;strokeColor=none;fontColor=#FFFFFF;rounded=1;strokeWidth=2;shadow=1;glass=0;comic=0;gradientColor=none;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="615" y="650" width="130" height="220" as="geometry" />
         </mxCell>
         <mxCell id="LrfucewhwRTxQstPCrct-1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=20;fontFamily=Comic Sans MS;strokeColor=#696773;strokeWidth=3;fontStyle=1;" edge="1" parent="1" source="tEdReIukBc9VCpdl-mp--2" target="AuvySnjUPf2b7XZAYS41-2">
           <mxGeometry relative="1" as="geometry">
@@ -1694,11 +1694,40 @@
         <mxCell id="tEdReIukBc9VCpdl-mp--5" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 20px;&quot;&gt;one prefetch request&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="249.5" y="880" width="230" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="tEdReIukBc9VCpdl-mp--6" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 20px;&quot;&gt;allocate mshr&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-170" y="430" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FEaXkD_kP3l0QfnnysX1-1" value="addr" style="whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;strokeWidth=2;fillColor=#c1a276;strokeColor=none;fontColor=#FFFFFF;rounded=1;shadow=1;glass=0;comic=0;gradientColor=none;fontStyle=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="647" y="670" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FEaXkD_kP3l0QfnnysX1-2" value="addr" style="whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;strokeWidth=2;fillColor=#c1a276;strokeColor=none;fontColor=#FFFFFF;rounded=1;shadow=1;glass=0;comic=0;gradientColor=none;fontStyle=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="647" y="720" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FEaXkD_kP3l0QfnnysX1-3" value="addr" style="whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;strokeWidth=2;fillColor=#c1a276;strokeColor=none;fontColor=#FFFFFF;rounded=1;shadow=1;glass=0;comic=0;gradientColor=none;fontStyle=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="647" y="770" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FEaXkD_kP3l0QfnnysX1-4" value="addr" style="whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;strokeWidth=2;fillColor=#c1a276;strokeColor=none;fontColor=#FFFFFF;rounded=1;shadow=1;glass=0;comic=0;gradientColor=none;fontStyle=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="647" y="820" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IxhUei-3ij3tKJlCS_VD-1" value="addr" style="whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;strokeWidth=2;fillColor=#77aac2;strokeColor=none;fontColor=#FFFFFF;rounded=1;shadow=1;glass=0;comic=0;gradientColor=none;fontStyle=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="690" y="510" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="M5q9MK8wW_Hg_o6-yQi4-1" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=6;endFill=1;fillColor=#f8cecc;strokeColor=#b85450;dashed=1;jumpStyle=arc;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="240" as="sourcePoint" />
+            <mxPoint x="-200" y="490" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="960" y="240" />
+              <mxPoint x="950" y="960" />
+              <mxPoint x="-200" y="960" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="-YMjwscY1NN9-H84-pyl" name="Page-5">
-    <mxGraphModel dx="1500" dy="813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1469" dy="813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
