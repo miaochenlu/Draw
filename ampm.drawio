@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-03T13:06:09.558Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="I6QTfNBAK4hATrwAxG5s" version="21.6.6" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-08-04T02:12:45.797Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="PhR5fLKD1JIOPOB8A9pI" version="21.6.6" type="github" pages="5">
   <diagram name="ampm" id="qrJaefqJqWcOck06pkET">
     <mxGraphModel dx="4649" dy="2261" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1603,7 +1603,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="K8-tir46aVDh2SZE-opX" name="RTL prefetcher">
-    <mxGraphModel dx="3298" dy="1355" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="5047" dy="2323" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1688,7 +1688,7 @@
         <mxCell id="tEdReIukBc9VCpdl-mp--1" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 20px;&quot;&gt;deq&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="592" y="870" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tEdReIukBc9VCpdl-mp--2" value="Request Buffer" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontFamily=Comic Sans MS;fillColor=#C3ABD0;strokeColor=none;fontColor=#FFFFFF;strokeWidth=2;shadow=1;glass=0;comic=0;gradientColor=none;fontStyle=1;" vertex="1" parent="1">
+        <mxCell id="tEdReIukBc9VCpdl-mp--2" value="&lt;font color=&quot;#000000&quot;&gt;Request Buffer&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontFamily=Comic Sans MS;fillColor=#C3ABD0;strokeColor=none;fontColor=#FFFFFF;strokeWidth=2;shadow=1;glass=0;comic=0;gradientColor=none;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="-145" y="550" width="270" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tEdReIukBc9VCpdl-mp--5" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 20px;&quot;&gt;one prefetch request&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
@@ -1727,7 +1727,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-YMjwscY1NN9-H84-pyl" name="Page-5">
-    <mxGraphModel dx="1469" dy="813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="701" dy="381" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
